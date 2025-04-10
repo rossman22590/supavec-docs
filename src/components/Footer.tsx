@@ -153,24 +153,24 @@ function SmallPrint() {
   return (
     <div className="flex flex-col items-center justify-between gap-5 border-t border-zinc-900/5 pt-8 sm:flex-row dark:border-white/5">
       <p className="text-xs text-zinc-600 dark:text-zinc-400">
-        Supavec &copy; Copyright {new Date().getFullYear()}. All rights
+        AI Tutor RAG &copy; Copyright {new Date().getFullYear()}. All rights
         reserved.
       </p>
       <div className="flex gap-4">
-        <SocialLink href="https://x.com/supavec_ai" icon={XIcon}>
+        <SocialLink href="https://x.com/tsi_org" icon={XIcon}>
           Follow us on X
         </SocialLink>
         <SocialLink
-          href="https://github.com/taishikato/supavec"
+          href="#
           icon={GitHubIcon}
         >
           Follow us on GitHub
         </SocialLink>
-        <SocialLink href="https://discord.gg/MS9CjPeXF4" icon={DiscordIcon}>
+        <SocialLink href="#" icon={DiscordIcon}>
           Join our Discord server
         </SocialLink>
         <SocialLink
-          href="https://supavec-ship-letter.beehiiv.com"
+          href="#"
           icon={BeehiivIcon}
         >
           Join our newsletter
