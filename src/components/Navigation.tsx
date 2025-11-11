@@ -265,7 +265,7 @@ export function Navigation(props: React.ComponentPropsWithoutRef<'nav'>) {
         ))}
         <li className="sticky bottom-0 z-10 mt-6 min-[416px]:hidden">
           <Button
-            href="https://www.supavec.com/login"
+            href="https://rag-api-aitutor-beta.up.railway.app/login"
             variant="filled"
             className="w-full"
           >
