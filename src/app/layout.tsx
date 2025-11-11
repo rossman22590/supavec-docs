@@ -9,8 +9,8 @@ import '@/styles/tailwind.css'
 
 export const metadata: Metadata = {
   title: {
-    template: '%s - Supavec API Reference',
-    default: 'Supavec API Reference',
+    template: '%s - AI Tutor RAG API Reference',
+    default: 'AI Tutor RAG API Reference',
   },
   metadataBase: new URL('https://docs.supavec.com'),
   alternates: {
